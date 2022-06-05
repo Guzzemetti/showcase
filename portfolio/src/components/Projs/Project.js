@@ -1,12 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { CardGroup, Card, CardImg, CardBody, CardTitle, CardSubtitle, CardText, Button } from 'reactstrap';
 import './projStyle.css';
-import Nav from '../Nav/Navbar';
 
 function Projects() {
     return (
         <>
-            <Nav />
             <div className='Container'>
                 <div >
                     <CardGroup className='Projects'>

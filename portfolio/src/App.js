@@ -1,12 +1,13 @@
 import './App.css';
 
-// import Nav from './components/nav/Navbar';
+import Nav from './components/Nav/Navbar';
 import Projects from './components/Projs/Project';
 
 function App() {
   return (
     <>
-    <Projects />
+    <Nav />
+    <Projects /> 
     </>
   );
 }
