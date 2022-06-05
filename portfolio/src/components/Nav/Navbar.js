@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { Navbar, NavbarBrand, NavbarText, NavLink } from 'reactstrap';
+import { Navbar, NavbarBrand, NavLink } from 'reactstrap';
 
 
 function Nav() {
@@ -16,9 +16,9 @@ return (
     <NavbarBrand href="/">
       John Guzzetta IV
     </NavbarBrand>
-    {/* <NavLink href='www.publix.com'>
+    <NavLink href='www.publix.com'>
     Publix
-    </NavLink> */}
+    </NavLink>
   </Navbar>
 </div>
 </>

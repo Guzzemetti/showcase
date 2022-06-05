@@ -1,0 +1,13 @@
+.Projects{
+    margin: 0, auto;
+    width: 50rem;
+}
+
+.Container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
