@@ -16,7 +16,7 @@ function Projects() {
                             />
                             <CardBody>
                                 <CardTitle tag="h5">
-                                    Card title
+                                    Friends in Training
                                 </CardTitle>
                                 <CardSubtitle
                                     className="mb-2 text-muted"
@@ -40,7 +40,7 @@ function Projects() {
                             />
                             <CardBody>
                                 <CardTitle tag="h5">
-                                    Card title
+                                    J.A.T.E.
                                 </CardTitle>
                                 <CardSubtitle
                                     className="mb-2 text-muted"
@@ -68,7 +68,7 @@ function Projects() {
                             />
                             <CardBody>
                                 <CardTitle tag="h5">
-                                    Card title
+                                    Economic Eats
                                 </CardTitle>
                                 <CardSubtitle
                                     className="mb-2 text-muted"
@@ -92,16 +92,16 @@ function Projects() {
                             />
                             <CardBody>
                                 <CardTitle tag="h5">
-                                    Card title
+                                    Placeholder
                                 </CardTitle>
                                 <CardSubtitle
                                     className="mb-2 text-muted"
                                     tag="h6"
                                 >
-                                    Card subtitle
+                                    Placeholder
                                 </CardSubtitle>
                                 <CardText>
-                                    This is a wider card with
+                                Placeholder
                                 </CardText>
                                 <Button>
                                     Button
