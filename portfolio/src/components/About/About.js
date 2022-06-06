@@ -8,29 +8,21 @@ function About(){
         <div className='container'>
             <div>
                 <h1> About Me</h1>
+                <p>An aspiring Full-Stack Web Developer residing in Orlando, Florida. I am currently 28 years old and have recently received a certificate in Full-Stack development through UCF. I have 10 years of experience in Grocery retail throuh Publix Super Markets in which I held a variety of positions ranging from in-store retail to corporate support, most-recently as a UX Content Designer. I am also a proud Cat-Dad to two wonderful cats, Gatsby & Winston.</p>
+                <div className='languages'>
                 <Row>
     <Col
-      className="bg-light border"
-      sm="4"
-      xs="6"
+      sm="3"
     >
-      .col-6 .col-sm-4
+      HTML, CSS, JavaScript, Node, Handlebars
     </Col>
     <Col
-      className="bg-light border"
-      sm="4"
-      xs="6"
+      sm="3"
     >
-      .col-6 .col-sm-4
-    </Col>
-    <Col
-      className="bg-light border"
-      sm="4"
-    >
-      .col-sm-4
+      JQuery, Express, MySQL, NoSQL, MongoDB, Mongoose
     </Col>
   </Row>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium odit accusantium expedita maiores ipsum recusandae doloremque sapiente alias, dolores nam provident aut suscipit vel quis eos, libero perferendis magnam? Dolorum.</p>
+  </div>
             </div>
         </div>
         </>
